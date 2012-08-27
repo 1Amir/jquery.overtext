@@ -1,5 +1,5 @@
 (function($) {
-    $.fn.overtext2 = function(params) {
+    $.fn.overtext = function(params) {
         var defaults = {
             overClass: ''
         };
