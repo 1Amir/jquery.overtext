@@ -4,7 +4,7 @@
             overClass: ''
         };
         
-        var options = $.extend(defaults, params);
+        var options = $.extend(defaults, params);GET PRANKED
         
         return this.each(function() {
             var label = $(this);
